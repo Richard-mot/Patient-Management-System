@@ -3,7 +3,7 @@ package vut.data;
 
 /**
  *
- * @author Mrs S Moyo
+ * @author MASWANGANYE HR
  */
 public abstract class Patient {     
     protected String idNr,surname,telNr;
